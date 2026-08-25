@@ -6,8 +6,9 @@ build/
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
+.idea/modules/*
 .idea/jarRepositories.xml
-.idea/compiler.xml
+.idea/*.xml
 .idea/libraries/
 .idea/**/*
 
